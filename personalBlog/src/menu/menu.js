@@ -1,7 +1,7 @@
 const menu = [
     {
-        "title": "组件1",
-        "path": "/12",
+        "title": "首页",
+        "path": "/personalBlog/homepage",
     },
     {
         "title": "组件2",

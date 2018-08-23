@@ -1,7 +1,7 @@
 import React from 'react';
 import webApi from '../share/webApi';
 import {Button} from 'antd';
-import urls from '../urls/url'
+import urls from './urls/url'
 
 export default class Index extends React.Component{
     constructor(){

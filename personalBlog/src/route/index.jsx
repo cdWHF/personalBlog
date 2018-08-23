@@ -10,7 +10,7 @@ export default class IndexRoute extends React.Component{
     render(){
         return(
             <div>
-                <Route exact path='/12' component={Index}/>
+                <Route exact path='/personalBlog/homepage' component={Index}/>
             </div>
         )
     }
